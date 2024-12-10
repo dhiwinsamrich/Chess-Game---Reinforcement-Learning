@@ -1,7 +1,7 @@
-# Arcane Chess
+# Chess Game
 > Web based and deep-q-learning powered chess game.
 
-Arcane Chess is a modal based on a Deep Reinforcement Learning approach to master the chess game.
+Chess Game is a modal based on a Deep Reinforcement Learning approach to master the chess game.
 You can train your own Reinforced Agent and then deploy-it online and oppose him.
 
 ![](header.png)
@@ -11,15 +11,15 @@ You can train your own Reinforced Agent and then deploy-it online and oppose him
 
 Train your modal :
 ```sh
-git clone https://github.com/dhiwinsamrich/RL_Chess
-cd RL - Chess Game/app
-python learning/training.py
+git clone https://github.com/dhiwinsamrich/Chess-Game---Reinforcement-Learning.git
+cd app
+python learning/keyboard_save.py
 ```
 
 Then deploy the local server :
 ```sh
-cd RL - Chess Game/app
-python main.py
+cd app
+python new_main.py
 ```
 
 ## Usage example
@@ -28,7 +28,7 @@ To play against your trained modal, deploy the local server, then just access ht
 
 ## Development setup
 
-To train your own version of Arcane Chess with specified hyperparameters, you first need some libraries :
+To train your own version of Chess Game with specified hyperparameters, you first need some libraries :
 
 ```sh
 pip3 install tensorflow keras flask numpy python-chess
