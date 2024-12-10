@@ -1,0 +1,15 @@
+chess
+random
+json
+operator
+numpy 
+pickle
+tensorflow
+argparse
+os
+signal
+sys
+flask
+chess
+numpy
+operator

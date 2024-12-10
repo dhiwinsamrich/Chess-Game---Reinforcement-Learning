@@ -1,0 +1,48 @@
+Date: Saturday, December 7, 2024
+
+Step Completion Timings:
+---------------------------------
+10:00 - 0 step
+11:20 - 100 steps
+12:31 - 200 steps
+1:41  - 300 steps
+2:58  - 400 steps
+4:23  - 500 steps
+5:49  - 600 steps
+7:00  - 700 steps
+8:22  - 800 steps
+9:31  - 900 steps
+10:39 - 1000 steps
+
+Total Steps Recorded: 1000 steps
+
+Note: The timings represent the completion of each set of steps throughout the day.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sample Recorded History on 927/1000 steps:
+
+/------------------ Training -----------------/
+
+Step (927/1000)
+Game N°15
+WINNERS COUNT: 
+{'Black': 5668, 'White': 7223}
+Number of remaining training games: 85
+Winner Reward: 1
+Loser Malus: -1
+Epsilon: 0.8499999999999999
+Decremental Epsilon: 0.01
+Gamma: 0.05
+Rewards for White: 1, Black: -1
+
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 22ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 36ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 27ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 27ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 20ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 33ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 38ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 35ms/step
