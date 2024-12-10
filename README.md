@@ -4,7 +4,7 @@
 Chess Game is a modal based on a Deep Reinforcement Learning approach to master the chess game.
 You can train your own Reinforced Agent and then deploy-it online and oppose him.
 
-![](header.png)
+![](https://github.com/dhiwinsamrich/Chess-Game---Reinforcement-Learning/blob/main/Screenshot%202024-12-10%20191912.png)
 
 ## Installation
 
